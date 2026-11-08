@@ -1,0 +1,8 @@
+.venv
+dist/
+__pycache__/
+*.egg-info
+*.py[cod]
+.ruff_cache/
+logs/
+data/session.json
